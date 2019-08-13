@@ -1,0 +1,29 @@
+https://en.wikipedia.org/wiki/API_testing
+https://openweathermap.org/current
+
+
+https://samples.openweathermap.org/data/2.5/weather?q=London,uk&appid=b6907d289e10d714a6e88b30761fae22
+https://samples.openweathermap.org/data/2.5/weather?q=London,uk&appid=b6907d289e10d714a6e88b30761fae22
+
+http://restcountries.eu/rest/v1/name/norway
+
+
+
+https://rdb-proexample.restdb.io/rest/projects
+For testing, you can use this URL from RestDB: https://rdb-proexample.restdb.io/rest/projects and specify the header X-apikey with this value: 569cce8b566759cf4b984a60  (HTTP GET against this collection only).
+
+Read more about how you can create databases with REST APIs quickly with restdb.io in the feature list or the docs.
+https://restdb.io/features/
+https://rdb-simpledb.restdb.io/rest/product
+
+
+http://parabank.parasoft.com/parabank/services/bank/customers/12212
+
+http://parabank.parasoft.com/parabank/services/bank/customers/12212
+http://freegeoip.net/shutdown
+
+https://github.com/rest-assured/rest-assured/wiki/Usage_Legacy
+
+https://www.hascode.com/2011/10/testing-restful-web-services-made-easy-using-the-rest-assured-framework/
+
+
